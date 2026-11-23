@@ -1,0 +1,9 @@
+{
+  "id": "web-clip-bridge",
+  "name": "Web Clip Bridge",
+  "version": "0.3.0",
+  "minAppVersion": "1.7.2",
+  "description": "让 Obsidian Web Clipper 在 Obsidian 内保存到库，支持小红书正文提取与网页图片本地化、裁剪。",
+  "author": "local",
+  "isDesktopOnly": true
+}

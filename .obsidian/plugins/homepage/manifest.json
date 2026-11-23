@@ -1,0 +1,13 @@
+{
+	"id": "homepage",
+	"name": "Homepage",
+	"version": "4.6.0",
+	"minAppVersion": "1.13.0",
+	"description": "Open a specified note, canvas, base, or workspace on startup, or set it for quick access later.",
+	"author": "novov",
+	"authorUrl": "[链接已移除]",
+	"isDesktopOnly": false,
+	"fundingUrl": {
+		"Ko-fi": "[链接已移除]"
+	}
+}

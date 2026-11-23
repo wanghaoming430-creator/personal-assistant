@@ -1,0 +1,11 @@
+{
+    "author": "Vinzent",
+    "authorUrl": "[链接已移除]",
+    "id": "obsidian-git",
+    "name": "Git",
+    "description": "Integrate Git version control with automatic backup and other advanced features.",
+    "isDesktopOnly": false,
+    "fundingUrl": "[链接已移除]",
+    "version": "2.43.0",
+    "minAppVersion": "1.13.0"
+}

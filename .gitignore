@@ -1,0 +1,14 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+.DS_Store
+.trash/
+
+# 运行时状态不进版本库
+.claudian/sessions/
+.obsidian/graph.json
+
+# 作品档案原图不进版本库，记录仍跟踪
+内容/项目/作品档案/批次/**/*.jpg

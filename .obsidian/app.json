@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "外部收件箱",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "promptDelete": false
+}

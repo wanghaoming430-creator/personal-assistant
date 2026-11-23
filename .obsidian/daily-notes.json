@@ -1,0 +1,6 @@
+{
+  "folder": "日志/即时想法",
+  "format": "YYYY-MM-DD",
+  "template": "模板/31 日记模板.md",
+  "autorun": false
+}

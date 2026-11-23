@@ -1,0 +1,15 @@
+{
+	"id": "surfing",
+	"name": "Surfing",
+	"version": "1.0.0",
+	"minAppVersion": "1.7.2",
+	"description": "Surf the Net in Obsidian.",
+	"author": "Boninall & Windily-cloud",
+	"authorUrl": "[链接已移除]",
+	"isDesktopOnly": true,
+	"fundingUrl": {
+		"Buy Me a Coffee": "[链接已移除]",
+		"爱发电": "[链接已移除]",
+		"支付宝": "[链接已移除]"
+	}
+}
